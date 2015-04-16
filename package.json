@@ -7,11 +7,11 @@
     "url": "git://github.com/urthen/fb-pkg-funbox.git"
   },
   "dependencies": {
-    "fb-opt-facts": "",
-    "fb-opt-google": "",
-    "fb-opt-quotes": "",
-    "fb-opt-stocks": "",
-    "fb-opt-weather": ""
+    "fb-opt-facts": "0.0.2",
+    "fb-opt-google": "0.2.0",
+    "fb-opt-quotes": "0.0.2",
+    "fb-opt-stocks": "0.0.1",
+    "fb-opt-weather": "0.0.1"
     },
   "devDependencies": {
     "grunt": "",
