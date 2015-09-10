@@ -1,17 +1,17 @@
 {
   "name": "fb-pkg-funbox",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A lovely Fritbot module",
   "repository": {
     "type": "git",
     "url": "git://github.com/urthen/fb-pkg-funbox.git"
   },
   "dependencies": {
-    "fb-opt-facts": "0.0.2",
+    "fb-opt-facts": "0.1.0",
     "fb-opt-google": "0.2.0",
-    "fb-opt-quotes": "0.0.2",
-    "fb-opt-stocks": "0.0.1",
-    "fb-opt-weather": "0.0.1"
+    "fb-opt-quotes": "0.1.1",
+    "fb-opt-stocks": "0.1.0",
+    "fb-opt-weather": "0.1.0"
     },
   "devDependencies": {
     "grunt": "",
